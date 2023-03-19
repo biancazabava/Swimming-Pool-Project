@@ -1,0 +1,12 @@
+
+Denumire bazin: Bazin Olimpic Centru
+Capacitate bazin: 40
+Lungime bazin: 50
+-----------------------------
+Denumire bazin: StayFit Pool
+Capacitate bazin: 0
+Lungime bazin: 25
+-----------------------------
+Denumire bazin: Intergroup
+Capacitate bazin: 120
+Lungime bazin: 50

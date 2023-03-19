@@ -1,0 +1,15 @@
+
+Durata sedintei: 60
+Numar participanti: 25
+Numar participanti abonati: 6
+Valori abonamente: 30|30|30|100|100|60|
+-----------------------------
+Durata sedintei: 120
+Numar participanti: 10
+Numar participanti abonati: 4
+Valori abonamente: 30|60|100|360|
+-----------------------------
+Durata sedintei: 30
+Numar participanti: 5
+Numar participanti abonati: 0
+Valori abonamente: 

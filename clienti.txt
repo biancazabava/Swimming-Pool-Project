@@ -1,0 +1,12 @@
+
+Nume client: Nume Prenume
+Varsta client: 13
+Inaltime client: 150
+-----------------------------
+Nume client: Ionut Stanescu
+Varsta client: 17
+Inaltime client: 140
+-----------------------------
+Nume client: Remus Popa
+Varsta client: 15
+Inaltime client: 140

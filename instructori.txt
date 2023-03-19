@@ -1,0 +1,15 @@
+
+Ani experienta: 3
+Nume instructor: Marcel
+Numar persoane pregatite de instructor:7
+Varste persoane: 20|23|18|16|17|21|19|
+-----------------------------
+Ani experienta: 7
+Nume instructor: Silviu
+Numar persoane pregatite de instructor:8
+Varste persoane: 9|22|21|11|15|10|8|12|
+-----------------------------
+Ani experienta: 5
+Nume instructor: Popescu
+Numar persoane pregatite de instructor:4
+Varste persoane: 15|10|8|12|

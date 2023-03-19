@@ -1,0 +1,12 @@
+
+Denumire: CityLink
+Numar de camere cu vestiare: 5
+Vestiare per camera: 15|20|15|40|50|
+-----------------------------
+Denumire: StayFit Gym
+Numar de camere cu vestiare: 3
+Vestiare per camera: 20|20|60|
+-----------------------------
+Denumire: Municipal
+Numar de camere cu vestiare: 7
+Vestiare per camera: 12|24|15|30|25|50|44|
